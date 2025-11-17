@@ -1,0 +1,6 @@
+deepagents>=0.2.7
+langgraph-cli[inmem]
+tavily-python
+python-dotenv
+cffi
+requests
